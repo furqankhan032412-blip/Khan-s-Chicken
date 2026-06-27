@@ -192,8 +192,7 @@ Profile
 
 ## Demo Video
 
-
-
+https://github.com/user-attachments/assets/faed8b06-5da0-4bcb-9579-96c2467ea8ae
 
 📄 Documentation
 
