@@ -71,8 +71,8 @@ khan-chicken/
 git clone https://github.com/your-username/khan-chicken.git
 cd khan-chicken
 ```
-```
-Step 2: Install Backend Dependencies
+
+### Step 2: Install Backend Dependencies
 
 ```bash
 cd backend
