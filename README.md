@@ -165,23 +165,28 @@ GET /api/menu Get menu items ❌
 
 Homepage
 
-screenshots/homepage.png
+<img width="1600" height="719" alt="home" src="https://github.com/user-attachments/assets/0ff598f6-6ea0-4997-a360-9e726842dd07" />
+
 
 Menu
 
-screenshots/menu.png
+<img width="1600" height="778" alt="Menu" src="https://github.com/user-attachments/assets/7236097d-dbe3-4822-94ea-c73d980ca32d" />
+
 
 Cart
 
-screenshots/cart.png
+<img width="1600" height="785" alt="Cart" src="https://github.com/user-attachments/assets/5740381e-17cd-42c9-bed7-6fb652be5bad" />
+
 
 Admin Panel
 
-screenshots/admin.png
+<img width="1600" height="771" alt="Panel" src="https://github.com/user-attachments/assets/85098bf9-6eec-46f6-8ec9-0321399d4915" />
+
 
 Profile
 
-screenshots/profile.png
+<img width="1600" height="798" alt="Profile" src="https://github.com/user-attachments/assets/ddb3b7c7-0774-456b-8787-5a47ae2e7137" />
+
 
 ---
 
