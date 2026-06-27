@@ -192,8 +192,10 @@ Profile
 
 📄 Documentation
 
-· Project Report
-· Presentation
+· Project Report : [Khan's_ChickenProject_Report.docx](https://github.com/user-attachments/files/29412950/Khan.s_ChickenProject_Report.docx)
+
+· Presentation : [Presentation - Khan's Chicken.pptx](https://github.com/user-attachments/files/29412952/Presentation.-.Khan.s.Chicken.pptx)
+
 
 ---
 
