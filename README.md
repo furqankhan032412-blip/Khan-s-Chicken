@@ -1,7 +1,8 @@
 # 🍗 Khan's Chicken Restaurant
 ### Full-Stack Web Application
 
-![Khan's Chicken Banner](screenshots/banner.png)
+![Khan's Chicken Banner](<img width="711" height="400" alt="banner" src="https://github.com/user-attachments/assets/f43653b2-a557-4c91-b184-2bcffd392de1" />
+)
 
 ## 📋 Overview
 **Khan's Chicken** is a complete restaurant ordering platform that allows users to browse menu items, add them to a cart, place orders, and manage their profiles. The application features a robust admin panel for menu management, JWT-based authentication, and a modern dark/light theme toggle.
